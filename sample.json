@@ -1,0 +1,141 @@
+{"NOIDUNG": 
+    {
+    "DIEMTD": 
+        {"MOTA_XEPHANGKH": 
+            "\u00c4\u0090i\u00e1\u00bb\u0192m t\u00c3\u00adn d\u00e1\u00bb\u00a5ng c\u00e1\u00bb\u00a7a kh\u00c3\u00a1ch h\u00c3\u00a0ng cao h\u00c6\u00a1n \u00c4\u2018i\u00e1\u00bb\u0192m t\u00c3\u00adn d\u00e1\u00bb\u00a5ng c\u00e1\u00bb\u00a7a 46% t\u00e1\u00bb\u2022ng s\u00e1\u00bb\u2018 kh\u00c3\u00a1ch h\u00c3\u00a0ng c\u00c3\u00a1 nh\u00c3\u00a2n \u00c4\u2018\u00c6\u00b0\u00e1\u00bb\u00a3c ch\u00e1\u00ba\u00a5m \u00c4\u2018i\u00e1\u00bb\u0192m t\u00e1\u00ba\u00a1i kho d\u00e1\u00bb\u00af li\u00e1\u00bb\u2021u CIC"
+            ,"HANG": "5"
+            , "NGAYCHAM": "20240321"
+            , "DIEM": "575"
+            , "XEPHANGKH": "46"}
+    ,"QHTDHT": 
+        {"QHTD": 
+            {"DONG": 
+            [{"TENTCTD": "C\u00c3\u00b4ng ty T\u00c3\u00a0i ch\u00c3\u00adnh C\u00e1\u00bb\u2022 ph\u00e1\u00ba\u00a7n \u00c4\u0090i\u00e1\u00bb\u2021n l\u00e1\u00bb\u00b1c", 
+            "MATCTD": "01826001", 
+            "TONG_USD": "0", 
+            "CTLOAIVAY": 
+                {"DONG": 
+                    [{"NHOM4_VND": null
+                    , "DUNO_THE_USD": null
+                    , "NHOM4_USD": null
+                    , "NHOM2_VND": null
+                    , "NOXAU_KHAC_VND": null
+                    , "NHOMNO": "01"
+                    , "NHOM2_USD": null
+                    , "NHOM3_VND": null
+                    , "NHOM5_USD": null
+                    , "NOXAU_KHAC_USD": null
+                    , "NHOM1_VND": null
+                    , "DUNO_USD": "0"
+                    , "NHOM3_USD": null
+                    , "LOAIVAY": "02"
+                    , "NHOM5_VND": null
+                    , "NHOM1_USD": null
+                    , "DUNO_VND": "8"
+                    , "DUNO_THE_VND": null}]}, 
+            "NGAYSL": "20240331"
+            , "TONG_VND": "8"}
+            ,{"TENTCTD": "C\u00c3\u00b4ng ty T\u00c3\u00a0i ch\u00c3\u00adnh tra\u00cc\u0081ch nhi\u00c3\u00aa\u00cc\u00a3m h\u00c6\u00b0\u00cc\u0192u ha\u00cc\u00a3n m\u00c3\u00b4\u00cc\u00a3t tha\u00cc\u20acnh vi\u00c3\u00aan Home Credit Vi\u00e1\u00bb\u2021t Nam", 
+            "MATCTD": "79830001", 
+            "TONG_USD": "0", 
+            "CTLOAIVAY": 
+                {"DONG": 
+                    [{"NHOM4_VND": null
+                    , "DUNO_THE_USD": null
+                    , "NHOM4_USD": null
+                    , "NHOM2_VND": null
+                    , "NOXAU_KHAC_VND": null
+                    , "NHOMNO": "01"
+                    , "NHOM2_USD": null
+                    , "NHOM3_VND": null
+                    , "NHOM5_USD": null
+                    , "NOXAU_KHAC_USD": null
+                    , "NHOM1_VND": null
+                    , "DUNO_USD": "0"
+                    , "NHOM3_USD": null
+                    , "LOAIVAY": "01"
+                    , "NHOM5_VND": null
+                    , "NHOM1_USD": null
+                    , "DUNO_VND": "4"
+                    , "DUNO_THE_VND": null}]}, 
+            "NGAYSL": "20240331"
+            ,"TONG_VND": "4"}]}
+        ,"DUNO_THETD": 
+         {"DONG": 
+            [{"TENTCTD": "Ng\u00c3\u00a2n h\u00c3\u00a0ng TMCP B\u00c6\u00b0u \u00c4\u2018i\u00e1\u00bb\u2021n Li\u00c3\u00aan Vi\u00e1\u00bb\u2021t - Chi nh\u00c3\u00a1nh Hu\u00e1\u00ba\u00bf"
+            ,"SONGAY_CHAM_TT": "0"
+            ,"SOLUONG_THETD": "2"
+            ,"MATCTD": "46357001"
+            ,"HANMUC_THETD": "30"
+            ,"SOTIEN_PHAI_TT": "0"
+            ,"NGAYSL": "20240331"
+            ,"SOTIEN_CHAM_TT": "0"}]}, 
+        "CAMKETNB": 
+            {"DONG": []}, 
+        "DSTCTDQH": {"DONG": []}, 
+        "DUNO_VAMC": null, 
+        "CTLOAIVAY": {"DONG": []}, 
+        "HDTD": {"DONG": 
+            [{"TENTCTD": "C\u00c3\u00b4ng ty T\u00c3\u00a0i ch\u00c3\u00adnh C\u00e1\u00bb\u2022 ph\u00e1\u00ba\u00a7n \u00c4\u0090i\u00e1\u00bb\u2021n l\u00e1\u00bb\u00b1c"
+            ,"MATCTD": "01826001"
+            ,"SOHDTD": "3002013364"
+            ,"NGAYKY_HDTD": "20220929"
+            ,"NGAYKT_HDTD": "20241007"}, 
+            {"TENTCTD": "C\u00c3\u00b4ng ty T\u00c3\u00a0i ch\u00c3\u00adnh tra\u00cc\u0081ch nhi\u00c3\u00aa\u00cc\u00a3m h\u00c6\u00b0\u00cc\u0192u ha\u00cc\u00a3n m\u00c3\u00b4\u00cc\u00a3t tha\u00cc\u20acnh vi\u00c3\u00aan Home Credit Vi\u00e1\u00bb\u2021t Nam"
+            ,"MATCTD": "79830001"
+            ,"SOHDTD": "4400055351"
+            ,"NGAYKY_HDTD": ""
+            ,"NGAYKT_HDTD": ""}]}, 
+        "TRAIPHIEU": {"DONG": []}}
+    ,"TTKHAC": ""
+    ,"LS_TRACUU_12THANG": 
+        {"DONG": 
+            [{"TENTCTD": "Ng\u00c3\u00a2n h\u00c3\u00a0ng TMCP B\u00c6\u00b0u \u00c4\u2018i\u00e1\u00bb\u2021n Li\u00c3\u00aan Vi\u00e1\u00bb\u2021t - Chi nh\u00c3\u00a1nh Hu\u00e1\u00ba\u00bf"
+            ,"MASP": "QHTD"
+            ,"MATCTD": "46357001"
+            ,"NGAYTRACUU": "20230822 14:38:46"}
+            ,{"TENTCTD": "C\u00c3\u00b4ng ty T\u00c3\u00a0i ch\u00c3\u00adnh TNHH MTV TNEX"
+            ,"MASP": "QHTD"
+            ,"MATCTD": "01805001"
+            ,"NGAYTRACUU": "20240406 07:42:20"}]}, 
+    "LSQHTD": 
+        {"NOXAU_36THANG": 
+            {"DONG": []}, 
+            "LS_CHAMTT_THETD_36THANG": null, 
+            "DUNO_12THANG": 
+            {"DONG": 
+            [{
+                "THANG": "202403"
+                ,"TONGDUNO": "12"
+                ,"DUNOVAY": "12"
+                ,"DUNOTHE": ""}, 
+                {"THANG": "202402"
+                ,"TONGDUNO": "14"
+                ,"DUNOVAY": "14"
+                ,"DUNOTHE": ""}, 
+                {"THANG": "202401"
+                ,"TONGDUNO": "16"
+                ,"DUNOVAY": "16"
+                ,"DUNOTHE": ""},
+             {
+                "THANG": "202312"
+                ,"TONGDUNO": "11"
+                ,"DUNOVAY": "11"
+                ,"DUNOTHE": ""}
+                ,{
+                "THANG": "202311", "TONGDUNO": "12", "DUNOVAY": "12", "DUNOTHE": ""}
+                , {"THANG": "202310", "TONGDUNO": "226", "DUNOVAY": "226", "DUNOTHE": ""}, {"THANG": "202309", "TONGDUNO": "230", "DUNOVAY": "230", "DUNOTHE": ""}
+                , {"THANG": "202308", "TONGDUNO": "234", "DUNOVAY": "234", "DUNOTHE": ""}
+                , {"THANG": "202307", "TONGDUNO": "238", "DUNOVAY": "238", "DUNOTHE": ""}
+                , {"THANG": "202306", "TONGDUNO": "241", "DUNOVAY": "241", "DUNOTHE": "0"}
+                , {"THANG": "202305", "TONGDUNO": "258", "DUNOVAY": "246", "DUNOTHE": "12"}
+                , {"THANG": "202304", "TONGDUNO": "267", "DUNOVAY": "250", "DUNOTHE": "17"}]}, 
+            "NOXAU_60THANG": null
+            ,"NHOM2_12THANG": null}
+    ,"TSDB": {
+                "SL_TCTD": "",
+                 "SL_TSDB": "",
+                  "DONG": [], 
+                  "MOTA_TSDB": "Kh\u00c3\u00b4ng c\u00c3\u00b3"}
+            }
+        }
